@@ -1,5 +1,5 @@
 # O objetivo do objeto
-O projeto me demonstrou o auxílio que a IA pode prestar em nossas carreiras, especialmente na área de aprimoramento profissional, nos estudos e  na escolha de carreira. O projeto apresenta dois agentes(Agente 1 e Agente 2) com comandos diferentes. O primeiro é um entrevistador que procura as áreas que podem ser interessantes ao entrevistado. O segundo tenta organizar um plano de estudos para atingir essas possibilidades dadas pelo Agente 1.
+O projeto me demonstrou o auxílio que a IA pode prestar em nossas carreiras, especialmente na área de aprimoramento profissional, nos estudos e na escolha de carreira. O projeto apresenta dois agentes(Agente 1 e Agente 2) com comandos diferentes. O primeiro é um entrevistador que procura as áreas que podem ser interessantes para o entrevistado. O segundo tenta organizar um plano de estudos para atingir essas possibilidades dadas pelo Agente 1.
 ## Interação com o Agente 1
 O prompt que fundamentou o Agente 1 foi dado pelo professor no main brach desse github.
 Então, ao responder as perguntas feitas pelo agente, obtive essa resposta:
@@ -165,7 +165,7 @@ Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Se
 Quer que eu detalhe mais sobre o projeto de portfólio ou sobre o roteiro de entrevistas?
 ```
 
-Assim, seguindo a instrução do professor, requisitei também que "Detalhe mais sobre o projeto de portifólio e monte uma lista com cursos de R." E recebi a essa resposta:
+Assim, seguindo a instrução do professor, requisitei também que "Detalhe mais sobre o projeto de portifólio e monte uma lista com cursos de R." E recebi essa resposta:
 
 ```markdown
 🚀 Projeto de Portfólio – IDS em Python
@@ -203,4 +203,4 @@ Aqui está uma lista de cursos atualizados e bem avaliados para aprender R, cobr
 ```
 
 # Conclusão
-Esse projeto me ajudou a ver carreiras em tecnologia muito interessantes e me mostrou um caminho claro e organizado para antigir essas metas, percebi que essa funcionalidade é fulcral no mundo contemporâneo, já que transforma o processo profissional em algo acessível e mais fácil de participar.
+Esse projeto me ajudou a ver carreiras em tecnologia muito interessantes e me mostrou um caminho claro e organizado para antigir essas metas. Além disso, percebi que essa funcionalidade é fulcral no mundo contemporâneo, já que transforma o processo profissional em algo acessível e mais fácil de participar.
